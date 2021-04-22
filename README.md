@@ -3,6 +3,9 @@
 
 I am a Software Engineer based in San Diego, CA. I have extensive knowledge in HTML, CSS, JavaScript, React, NodeJS and MongoDB. I also have many years of professional experience as a geoscientist contributing to projects by collecting, analyzing, and reporting on scientific data. Today as a software engineer, I focus on creating user friendly products and I strive to bring creative projects to life.
 
+## My Skill Set
+
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
  
@@ -25,8 +28,6 @@ I am a Software Engineer based in San Diego, CA. I have extensive knowledge in H
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
-</td><td valign="top" width="50%">
- 
 </td>
 </tr>
 </table>
