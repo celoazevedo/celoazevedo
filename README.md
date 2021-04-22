@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**celoazevedo/celoazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Hi there 👋, My name is Marcelo
 
@@ -31,5 +27,3 @@ I am a Software Engineer based in San Diego, CA. I have extensive knowledge in H
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=celoazevedo" align="center" width="40%"/>
 </div>
 
-
--->
