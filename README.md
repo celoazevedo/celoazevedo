@@ -1,7 +1,7 @@
 
 ### Hi there 👋, My name is Marcelo
 
-I am a Software Engineer based in San Diego, CA. I have extensive knowledge in HTML, CSS, JavaScript, React, NodeJS and MongoDB. I also have many years of professional experience as a geoscientist contributing to projects by collecting, analyzing, and reporting on scientific data. Today as a software engineer, I focus on creating user friendly products and I strive to bring creative projects to life.
+I am a software developer based in San Diego, CA. I have extensive knowledge in HTML, CSS, JavaScript, NodeJS, MongoDB and React. I also have many years of professional experience as a geoscientist contributing to projects by collecting, analyzing, and reporting on scientific data. My past experiences allowed me to develop a strong attention to detail, a comfort in analyzing data and an ability to manage multiple tasks and deadlines. Today as a software engineer, I strive to bring creative projects to life and to resolve challenging tasks with process improvements and innovative solutions.
 
 ## My Skill Set
 
