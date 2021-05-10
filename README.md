@@ -34,7 +34,7 @@ I am a software developer based in San Diego, CA. I have extensive knowledge in 
 
 <br/>
 
-## Connect with me
+## Lets Connect
 
 <div align="center">
 <a href="https://twitter.com/AzevedoCelo" target="_blank">
