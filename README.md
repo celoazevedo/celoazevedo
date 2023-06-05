@@ -1,7 +1,7 @@
 
 ### Hi there 👋, My name is Marcelo
 
-I am a software developer based in San Diego, CA. 
+I am a Software Engineer based in San Diego, CA. 
 
 
 ## My Skill Set
